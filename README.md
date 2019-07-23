@@ -10,6 +10,7 @@ same instructions are also summarized in [CONTRIBUTING.md].
 
 ##Collaborators
 - Manashi Paul
+Sarah Temilade Adekola
 
 ## Data
 
